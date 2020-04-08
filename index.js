@@ -54,10 +54,10 @@ const changeColor = (event) => {
 const changeMode = (event) => {
   if (fill === true) {
     fill = false;
-    mode.innerText = "Fill";
+    mode.innerText = "채우기";
   } else {
     fill = true;
-    mode.innerText = "Paint";
+    mode.innerText = "그리기";
   }
 };
 
