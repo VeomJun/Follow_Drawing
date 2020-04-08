@@ -11,7 +11,7 @@ const input = url.querySelector(".image-input");
 let paint = false;
 let fill = false;
 
-canvas.width = "450";
+canvas.width = "550";
 canvas.height = "450";
 
 ctx.strokeStyle = "black";

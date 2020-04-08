@@ -9,7 +9,7 @@ body {
 }
 
 .canvas {
-  width: 450px;
+  width: 550px;
   height: 450px;
   background-color: white;
   opacity: 0.4;
@@ -41,7 +41,7 @@ body {
 
 .sample-image {
   position: absolute;
-  width: 450px;
+  width: 550px;
   height: 450px;
   z-index: -1;
   border-radius: 15px;
