@@ -56,3 +56,13 @@ body {
   margin: 0px 15px;
   width: 250px;
 }
+
+button {
+  border-radius: 15px;
+  border: 1px white solid;
+  padding: 5px 10px;
+}
+
+button:active {
+  width: 90%;
+}
